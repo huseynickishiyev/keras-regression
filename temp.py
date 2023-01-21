@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 sns.set()
 
-df = pd.read_csv(r'C:\Users\Kishiyev\Desktop\AI, Machine Learning\kc_house_data.csv')
+df = pd.read_csv(r'C:\Users\USR\Desktop\ML\kc_house_data.csv')
 
 df
 
